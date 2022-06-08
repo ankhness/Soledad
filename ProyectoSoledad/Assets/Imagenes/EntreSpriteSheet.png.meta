@@ -1,0 +1,1716 @@
+fileFormatVersion: 2
+guid: 73ba1165f4182124a99cb77307478eb1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 468142668555982703
+    second: EntreSpriteSheet_0
+  - first:
+      213: 2738404813027511816
+    second: EntreSpriteSheet_1
+  - first:
+      213: -1813165534595972055
+    second: EntreSpriteSheet_2
+  - first:
+      213: -3610857725863532823
+    second: EntreSpriteSheet_3
+  - first:
+      213: 6064427838867821484
+    second: EntreSpriteSheet_4
+  - first:
+      213: 4999339288785301975
+    second: EntreSpriteSheet_5
+  - first:
+      213: -479978540848565306
+    second: EntreSpriteSheet_6
+  - first:
+      213: -5667131295931848294
+    second: EntreSpriteSheet_7
+  - first:
+      213: -8414443902542696902
+    second: EntreSpriteSheet_8
+  - first:
+      213: -6805139404821768103
+    second: EntreSpriteSheet_9
+  - first:
+      213: -958525536188661091
+    second: EntreSpriteSheet_10
+  - first:
+      213: -6232798371894108621
+    second: EntreSpriteSheet_11
+  - first:
+      213: -572108124582937129
+    second: EntreSpriteSheet_12
+  - first:
+      213: -5373563890476466741
+    second: EntreSpriteSheet_13
+  - first:
+      213: 8482695724121778821
+    second: EntreSpriteSheet_14
+  - first:
+      213: 7577987424491894705
+    second: EntreSpriteSheet_15
+  - first:
+      213: 2262748428573540653
+    second: EntreSpriteSheet_16
+  - first:
+      213: -8562252724675177749
+    second: EntreSpriteSheet_17
+  - first:
+      213: -1758378679670995896
+    second: EntreSpriteSheet_18
+  - first:
+      213: 1174328682866486335
+    second: EntreSpriteSheet_19
+  - first:
+      213: 5564329891539653839
+    second: EntreSpriteSheet_20
+  - first:
+      213: -7421107247151886726
+    second: EntreSpriteSheet_21
+  - first:
+      213: 6837194088096278872
+    second: EntreSpriteSheet_22
+  - first:
+      213: 79588980707808158
+    second: EntreSpriteSheet_23
+  - first:
+      213: -4658922723886890400
+    second: EntreSpriteSheet_24
+  - first:
+      213: -4190790747949757394
+    second: EntreSpriteSheet_25
+  - first:
+      213: -723720594802047709
+    second: EntreSpriteSheet_26
+  - first:
+      213: 8460409166740964118
+    second: EntreSpriteSheet_27
+  - first:
+      213: 7313886781354189333
+    second: EntreSpriteSheet_28
+  - first:
+      213: -5976567472899842918
+    second: EntreSpriteSheet_29
+  - first:
+      213: 7034117717148749973
+    second: EntreSpriteSheet_30
+  - first:
+      213: 3618295195790228013
+    second: EntreSpriteSheet_31
+  - first:
+      213: 3663693450400675581
+    second: EntreSpriteSheet_32
+  - first:
+      213: 1722080449266588057
+    second: EntreSpriteSheet_33
+  - first:
+      213: 6406122702663346076
+    second: EntreSpriteSheet_34
+  - first:
+      213: -8882156310893305285
+    second: EntreSpriteSheet_35
+  - first:
+      213: -4717655491897032196
+    second: EntreSpriteSheet_36
+  - first:
+      213: -7285302608269495291
+    second: EntreSpriteSheet_37
+  - first:
+      213: 3478353913614521229
+    second: EntreSpriteSheet_38
+  - first:
+      213: 4325098336491551679
+    second: EntreSpriteSheet_39
+  - first:
+      213: 5597246057488415215
+    second: EntreSpriteSheet_40
+  - first:
+      213: -5462792672261099273
+    second: EntreSpriteSheet_41
+  - first:
+      213: -7774983043195090008
+    second: EntreSpriteSheet_42
+  - first:
+      213: -6658422846771701592
+    second: EntreSpriteSheet_43
+  - first:
+      213: -8661495334133317976
+    second: EntreSpriteSheet_44
+  - first:
+      213: -4382643265856022318
+    second: EntreSpriteSheet_45
+  - first:
+      213: 3532115066606927691
+    second: EntreSpriteSheet_46
+  - first:
+      213: 2853944570134701149
+    second: EntreSpriteSheet_47
+  - first:
+      213: 497438465955696235
+    second: EntreSpriteSheet_48
+  - first:
+      213: -5378510893997302466
+    second: EntreSpriteSheet_49
+  - first:
+      213: 4375899049135823474
+    second: EntreSpriteSheet_50
+  - first:
+      213: 1439342199535200974
+    second: EntreSpriteSheet_51
+  - first:
+      213: 3055731405060927754
+    second: EntreSpriteSheet_52
+  - first:
+      213: -5198774522574365061
+    second: EntreSpriteSheet_53
+  - first:
+      213: 8616124062744112457
+    second: EntreSpriteSheet_54
+  - first:
+      213: 29849016169320971
+    second: EntreSpriteSheet_55
+  - first:
+      213: -784365991840780674
+    second: EntreSpriteSheet_56
+  - first:
+      213: 6236647656066401393
+    second: EntreSpriteSheet_57
+  - first:
+      213: -1870033713857402616
+    second: EntreSpriteSheet_58
+  - first:
+      213: -4090689633200295652
+    second: EntreSpriteSheet_59
+  - first:
+      213: -2085419956091798385
+    second: EntreSpriteSheet_60
+  - first:
+      213: -4615988658597634675
+    second: EntreSpriteSheet_61
+  - first:
+      213: -7526627669685162614
+    second: EntreSpriteSheet_62
+  - first:
+      213: -387029541259398978
+    second: EntreSpriteSheet_63
+  - first:
+      213: -5657576954654901195
+    second: EntreSpriteSheet_64
+  - first:
+      213: 1184683342892229618
+    second: EntreSpriteSheet_65
+  - first:
+      213: 6529090783559655263
+    second: EntreSpriteSheet_66
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EntreSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10031.111
+        width: 1085.375
+        height: 1253.8889
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f679b77d64d2f7600800000000000000
+      internalID: 468142668555982703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntreSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 10031.111
+        width: 1085.375
+        height: 1253.8889
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e89b33ba4c00620800000000000000
+      internalID: 2738404813027511816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntreSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 2170
+        y: 10031.111
+        width: 1085.375
+        height: 1253.8889
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9240d678d8756d6e0800000000000000
+      internalID: -1813165534595972055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntreSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 3255
+        y: 10031.111
+        width: 1085.375
+        height: 1253.8889
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6ed6b8708a3edc0800000000000000
+      internalID: -3610857725863532823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntreSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 4340
+        y: 10031.111
+        width: 1085.375
+        height: 1253.8889
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca3d4bd1dfc292450800000000000000
+      internalID: 6064427838867821484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntreSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 5425
+        y: 10031.111
+        width: 1085.375
+        height: 1253.8889
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1b3b37898316540800000000000000
+      internalID: 4999339288785301975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntreSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 6510
+        y: 10031.111
+        width: 1085.375
+        height: 1253.8889
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c339e46f06c659f0800000000000000
+      internalID: -479978540848565306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntreSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 7595
+        y: 10031.111
+        width: 1085.375
+        height: 1253.8889
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a99ab72bc1e4a51b0800000000000000
+      internalID: -5667131295931848294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntreSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8778.111
+        width: 1085.375
+        height: 1253.8889
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ead7e2ad3e93b80800000000000000
+      internalID: -8414443902542696902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntreSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 8778.111
+        width: 1085.375
+        height: 1253.8889
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958d59834c94f81a0800000000000000
+      internalID: -6805139404821768103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntreSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 2170
+        y: 8778.111
+        width: 1085.375
+        height: 1253.8889
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9285537a12a2b2f0800000000000000
+      internalID: -958525536188661091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntreSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 3255
+        y: 8778.111
+        width: 1085.375
+        height: 1253.8889
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e5e9e47e6a089a0800000000000000
+      internalID: -6232798371894108621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntreSpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 4340
+        y: 8778.111
+        width: 1085.375
+        height: 1253.8889
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd7e1d11b67f08f0800000000000000
+      internalID: -572108124582937129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntreSpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 5425
+        y: 8778.111
+        width: 1085.375
+        height: 1253.8889
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcdb84aac144d65b0800000000000000
+      internalID: -5373563890476466741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntreSpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 6510
+        y: 8778.111
+        width: 1085.375
+        height: 1253.8889
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ae00e51d698b570800000000000000
+      internalID: 8482695724121778821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntreSpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 7595
+        y: 8778.111
+        width: 1085.375
+        height: 1253.8889
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b77735a96b6a2960800000000000000
+      internalID: 7577987424491894705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntreSpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7525.1113
+        width: 1085.375
+        height: 1253.8889
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d21033d05b5e66f10800000000000000
+      internalID: 2262748428573540653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntreSpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 7525.1113
+        width: 1085.375
+        height: 1253.8889
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be29d9cf284cc2980800000000000000
+      internalID: -8562252724675177749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntreSpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 2170
+        y: 7525.1113
+        width: 1085.375
+        height: 1253.8889
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 844079938ebf897e0800000000000000
+      internalID: -1758378679670995896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntreSpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 3255
+        y: 7525.1113
+        width: 1085.375
+        height: 1253.8889
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c2fc717bd0c4010800000000000000
+      internalID: 1174328682866486335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntreSpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 4340
+        y: 7525.1113
+        width: 1085.375
+        height: 1253.8889
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc41f462e88783d40800000000000000
+      internalID: 5564329891539653839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntreSpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 5425
+        y: 7525.1113
+        width: 1085.375
+        height: 1253.8889
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e4f65074ee20990800000000000000
+      internalID: -7421107247151886726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntreSpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 6510
+        y: 7525.1113
+        width: 1085.375
+        height: 1253.8889
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85921615cc792ee50800000000000000
+      internalID: 6837194088096278872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntreSpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 7595
+        y: 7525.1113
+        width: 1085.375
+        height: 1253.8889
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e93df1b91c1ca1100800000000000000
+      internalID: 79588980707808158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntreSpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6272.1113
+        width: 1085.375
+        height: 1253.8889
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0620ab6777e285fb0800000000000000
+      internalID: -4658922723886890400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntreSpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 6272.1113
+        width: 1085.375
+        height: 1253.8889
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c067cb40257d5c0800000000000000
+      internalID: -4190790747949757394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntreSpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 2170
+        y: 6272.1113
+        width: 1085.375
+        height: 1253.8889
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325803614f3d4f5f0800000000000000
+      internalID: -723720594802047709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntreSpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 3255
+        y: 6272.1113
+        width: 1085.375
+        height: 1253.8889
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 613cd0edf49696570800000000000000
+      internalID: 8460409166740964118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntreSpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 4340
+        y: 6272.1113
+        width: 1085.375
+        height: 1253.8889
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512aa0ae645208560800000000000000
+      internalID: 7313886781354189333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntreSpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 5425
+        y: 6272.1113
+        width: 1085.375
+        height: 1253.8889
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c96a17c87fe0da0800000000000000
+      internalID: -5976567472899842918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntreSpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 6510
+        y: 6272.1113
+        width: 1085.375
+        height: 1253.8889
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 590deee9bc43e9160800000000000000
+      internalID: 7034117717148749973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntreSpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 7595
+        y: 6272.1113
+        width: 1085.375
+        height: 1253.8889
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a349d5f44c63230800000000000000
+      internalID: 3618295195790228013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntreSpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5019.1113
+        width: 1085.375
+        height: 1253.8889
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df6be0538cd08d230800000000000000
+      internalID: 3663693450400675581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntreSpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 5019.1113
+        width: 1085.375
+        height: 1253.8889
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9991e2d6b0f06e710800000000000000
+      internalID: 1722080449266588057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntreSpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 2170
+        y: 5019.1113
+        width: 1085.375
+        height: 1253.8889
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9760df28ae17e850800000000000000
+      internalID: 6406122702663346076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntreSpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 3255
+        y: 5019.1113
+        width: 1085.375
+        height: 1253.8889
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b32e5b915ed3cb480800000000000000
+      internalID: -8882156310893305285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntreSpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 4340
+        y: 5019.1113
+        width: 1085.375
+        height: 1253.8889
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf18ec84355878eb0800000000000000
+      internalID: -4717655491897032196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntreSpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 5425
+        y: 5019.1113
+        width: 1085.375
+        height: 1253.8889
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 504bed080e765ea90800000000000000
+      internalID: -7285302608269495291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntreSpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 6510
+        y: 5019.1113
+        width: 1085.375
+        height: 1253.8889
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8355109478954030800000000000000
+      internalID: 3478353913614521229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntreSpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 7595
+        y: 5019.1113
+        width: 1085.375
+        height: 1253.8889
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb363d8506d50c30800000000000000
+      internalID: 4325098336491551679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntreSpriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3766.111
+        width: 1085.375
+        height: 1253.8889
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe97d0142a96dad40800000000000000
+      internalID: 5597246057488415215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntreSpriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 3766.111
+        width: 1085.375
+        height: 1253.8889
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f03548f1034034b0800000000000000
+      internalID: -5462792672261099273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntreSpriteSheet_42
+      rect:
+        serializedVersion: 2
+        x: 2170
+        y: 3766.111
+        width: 1085.375
+        height: 1253.8889
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8abcba7ad16b91490800000000000000
+      internalID: -7774983043195090008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntreSpriteSheet_43
+      rect:
+        serializedVersion: 2
+        x: 3255
+        y: 3766.111
+        width: 1085.375
+        height: 1253.8889
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8d3ddd2b78893a0800000000000000
+      internalID: -6658422846771701592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntreSpriteSheet_44
+      rect:
+        serializedVersion: 2
+        x: 4340
+        y: 3766.111
+        width: 1085.375
+        height: 1253.8889
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aeb74952ef2cc780800000000000000
+      internalID: -8661495334133317976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntreSpriteSheet_45
+      rect:
+        serializedVersion: 2
+        x: 5425
+        y: 3766.111
+        width: 1085.375
+        height: 1253.8889
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8d4618b29bd23c0800000000000000
+      internalID: -4382643265856022318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntreSpriteSheet_46
+      rect:
+        serializedVersion: 2
+        x: 6510
+        y: 3766.111
+        width: 1085.375
+        height: 1253.8889
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f39ea60f7940130800000000000000
+      internalID: 3532115066606927691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntreSpriteSheet_47
+      rect:
+        serializedVersion: 2
+        x: 7595
+        y: 3766.111
+        width: 1085.375
+        height: 1253.8889
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54a887377f3b9720800000000000000
+      internalID: 2853944570134701149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntreSpriteSheet_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2513.111
+        width: 1085.375
+        height: 1253.8889
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e87e436a147e600800000000000000
+      internalID: 497438465955696235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntreSpriteSheet_49
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 2513.111
+        width: 1085.375
+        height: 1253.8889
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3dd8b6a6d0bb55b0800000000000000
+      internalID: -5378510893997302466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntreSpriteSheet_50
+      rect:
+        serializedVersion: 2
+        x: 2170
+        y: 2513.111
+        width: 1085.375
+        height: 1253.8889
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ad5bc20015abc30800000000000000
+      internalID: 4375899049135823474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntreSpriteSheet_51
+      rect:
+        serializedVersion: 2
+        x: 3255
+        y: 2513.111
+        width: 1085.375
+        height: 1253.8889
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca6681ca1299f310800000000000000
+      internalID: 1439342199535200974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntreSpriteSheet_52
+      rect:
+        serializedVersion: 2
+        x: 4340
+        y: 2513.111
+        width: 1085.375
+        height: 1253.8889
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0179afd583286a20800000000000000
+      internalID: 3055731405060927754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntreSpriteSheet_53
+      rect:
+        serializedVersion: 2
+        x: 5425
+        y: 2513.111
+        width: 1085.375
+        height: 1253.8889
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e9a92bd1e3ad7b0800000000000000
+      internalID: -5198774522574365061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntreSpriteSheet_54
+      rect:
+        serializedVersion: 2
+        x: 6510
+        y: 2513.111
+        width: 1085.375
+        height: 1253.8889
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94dee845f2f929770800000000000000
+      internalID: 8616124062744112457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntreSpriteSheet_55
+      rect:
+        serializedVersion: 2
+        x: 7595
+        y: 2513.111
+        width: 1085.375
+        height: 1253.8889
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02daa5a58b0a6000800000000000000
+      internalID: 29849016169320971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntreSpriteSheet_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1260.1111
+        width: 1085.375
+        height: 1253.8889
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7eee62494f5d15f0800000000000000
+      internalID: -784365991840780674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntreSpriteSheet_57
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 1260.1111
+        width: 1085.375
+        height: 1253.8889
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1744c1100060d8650800000000000000
+      internalID: 6236647656066401393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntreSpriteSheet_58
+      rect:
+        serializedVersion: 2
+        x: 2170
+        y: 1260.1111
+        width: 1085.375
+        height: 1253.8889
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809668fbe3e4c06e0800000000000000
+      internalID: -1870033713857402616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntreSpriteSheet_59
+      rect:
+        serializedVersion: 2
+        x: 3255
+        y: 1260.1111
+        width: 1085.375
+        height: 1253.8889
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1139b6b373fa37c0800000000000000
+      internalID: -4090689633200295652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntreSpriteSheet_60
+      rect:
+        serializedVersion: 2
+        x: 4340
+        y: 1260.1111
+        width: 1085.375
+        height: 1253.8889
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c33a559991f03e0800000000000000
+      internalID: -2085419956091798385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntreSpriteSheet_61
+      rect:
+        serializedVersion: 2
+        x: 5425
+        y: 1260.1111
+        width: 1085.375
+        height: 1253.8889
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d5e0585c6b0ffb0800000000000000
+      internalID: -4615988658597634675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntreSpriteSheet_62
+      rect:
+        serializedVersion: 2
+        x: 6510
+        y: 1260.1111
+        width: 1085.375
+        height: 1253.8889
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d2acf130c0c8790800000000000000
+      internalID: -7526627669685162614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntreSpriteSheet_63
+      rect:
+        serializedVersion: 2
+        x: 7595
+        y: 1260.1111
+        width: 1085.375
+        height: 1253.8889
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb0b6abceaef0aaf0800000000000000
+      internalID: -387029541259398978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntreSpriteSheet_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7.111084
+        width: 1085.375
+        height: 1253.8889
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53cbb502cbf3c71b0800000000000000
+      internalID: -5657576954654901195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntreSpriteSheet_65
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 7.111084
+        width: 1085.375
+        height: 1253.8889
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3e9604937d07010800000000000000
+      internalID: 1184683342892229618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntreSpriteSheet_66
+      rect:
+        serializedVersion: 2
+        x: 2170
+        y: 7.111084
+        width: 1085.375
+        height: 1253.8889
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f995c997dfb9a50800000000000000
+      internalID: 6529090783559655263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

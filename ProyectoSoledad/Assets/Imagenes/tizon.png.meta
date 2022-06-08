@@ -1,0 +1,3456 @@
+fileFormatVersion: 2
+guid: c0790aa039643584caee503601537c1e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4716622088523737798
+    second: tizon_0
+  - first:
+      213: -1179325496505433221
+    second: tizon_1
+  - first:
+      213: 885454738389815926
+    second: tizon_2
+  - first:
+      213: -5302819684253417828
+    second: tizon_3
+  - first:
+      213: 4264222979005728622
+    second: tizon_4
+  - first:
+      213: 8549530014094637751
+    second: tizon_5
+  - first:
+      213: -4946902661432706039
+    second: tizon_6
+  - first:
+      213: -5343185173614482328
+    second: tizon_7
+  - first:
+      213: -1324505020492611435
+    second: tizon_8
+  - first:
+      213: 7065835713735339060
+    second: tizon_9
+  - first:
+      213: 3187052646205168403
+    second: tizon_10
+  - first:
+      213: -5747547706925420861
+    second: tizon_11
+  - first:
+      213: 1153942851543917321
+    second: tizon_12
+  - first:
+      213: 4210029314208927705
+    second: tizon_13
+  - first:
+      213: 3553142509108263399
+    second: tizon_14
+  - first:
+      213: -31646643666139511
+    second: tizon_15
+  - first:
+      213: -1873454364456683226
+    second: tizon_16
+  - first:
+      213: -7110279807226432254
+    second: tizon_17
+  - first:
+      213: 8671489904924315038
+    second: tizon_18
+  - first:
+      213: -5740824556619243988
+    second: tizon_19
+  - first:
+      213: 1594934651563608254
+    second: tizon_20
+  - first:
+      213: 9115258006868533885
+    second: tizon_21
+  - first:
+      213: -8757054064087425968
+    second: tizon_22
+  - first:
+      213: 3318771205044643848
+    second: tizon_23
+  - first:
+      213: 6846165346529726777
+    second: tizon_24
+  - first:
+      213: -6296555431068719046
+    second: tizon_25
+  - first:
+      213: 5584078136245072234
+    second: tizon_26
+  - first:
+      213: 1131901854476457620
+    second: tizon_27
+  - first:
+      213: -1659294443066815429
+    second: tizon_28
+  - first:
+      213: 5054400953169797742
+    second: tizon_29
+  - first:
+      213: -4576130824526128009
+    second: tizon_30
+  - first:
+      213: -8859187418590598960
+    second: tizon_31
+  - first:
+      213: 4120185692041524819
+    second: tizon_32
+  - first:
+      213: 1327047678490534859
+    second: tizon_33
+  - first:
+      213: 9095246406571797539
+    second: tizon_34
+  - first:
+      213: 1094445027620113011
+    second: tizon_35
+  - first:
+      213: -5019132394228613917
+    second: tizon_36
+  - first:
+      213: -9102246952418010153
+    second: tizon_37
+  - first:
+      213: 7581989089649664601
+    second: tizon_38
+  - first:
+      213: 4237419417926796527
+    second: tizon_39
+  - first:
+      213: 2950750910886616366
+    second: tizon_40
+  - first:
+      213: -8243060428972071816
+    second: tizon_42
+  - first:
+      213: 4790844243140731401
+    second: tizon_44
+  - first:
+      213: 835890332055123136
+    second: tizon_46
+  - first:
+      213: 5087377431004233438
+    second: tizon_48
+  - first:
+      213: -3346971860156753618
+    second: tizon_53
+  - first:
+      213: 4247393657649170259
+    second: tizon_54
+  - first:
+      213: -8779620829430529033
+    second: tizon_55
+  - first:
+      213: 1606452957178544595
+    second: tizon_57
+  - first:
+      213: -149363420426332512
+    second: tizon_59
+  - first:
+      213: 1731329262700542081
+    second: tizon_60
+  - first:
+      213: -6719695483287219948
+    second: tizon_61
+  - first:
+      213: -8179907471817813783
+    second: tizon_62
+  - first:
+      213: 2788388139795229417
+    second: tizon_63
+  - first:
+      213: 4775144758776065770
+    second: tizon_64
+  - first:
+      213: 2412893386067907644
+    second: tizon_65
+  - first:
+      213: -1443874954308424458
+    second: tizon_79
+  - first:
+      213: -5684386751220033678
+    second: tizon_80
+  - first:
+      213: 3869633632116550527
+    second: tizon_81
+  - first:
+      213: -5186465891782878471
+    second: tizon_82
+  - first:
+      213: 2675899156060522857
+    second: tizon_83
+  - first:
+      213: 4916484639609404891
+    second: tizon_84
+  - first:
+      213: -9071360966080952935
+    second: tizon_85
+  - first:
+      213: -737684700704620132
+    second: tizon_86
+  - first:
+      213: 6166512253219090767
+    second: tizon_87
+  - first:
+      213: -8991636251228139341
+    second: tizon_88
+  - first:
+      213: 159896106605160552
+    second: tizon_90
+  - first:
+      213: -463329861452406637
+    second: tizon_103
+  - first:
+      213: -7928964408480563251
+    second: tizon_104
+  - first:
+      213: -3352068250311181464
+    second: tizon_106
+  - first:
+      213: 381729291045658094
+    second: tizon_107
+  - first:
+      213: -3026789333168666898
+    second: tizon_108
+  - first:
+      213: -7980039786277710740
+    second: tizon_109
+  - first:
+      213: 934191146708408009
+    second: tizon_110
+  - first:
+      213: 7993315751439986461
+    second: tizon_111
+  - first:
+      213: -4183836331782610447
+    second: tizon_112
+  - first:
+      213: -6837985902849037854
+    second: tizon_113
+  - first:
+      213: -6799884727970175779
+    second: tizon_114
+  - first:
+      213: 2870866107651305176
+    second: tizon_132
+  - first:
+      213: -4272078758672126657
+    second: tizon_134
+  - first:
+      213: 7269203120992736240
+    second: tizon_136
+  - first:
+      213: -8205783766985596218
+    second: tizon_138
+  - first:
+      213: 3428063025604825634
+    second: tizon_139
+  - first:
+      213: 3067235618055573106
+    second: tizon_140
+  - first:
+      213: 4049452443491802556
+    second: tizon_141
+  - first:
+      213: 672930072965135541
+    second: tizon_143
+  - first:
+      213: -1258521370692670140
+    second: tizon_145
+  - first:
+      213: -2830349973004196825
+    second: tizon_147
+  - first:
+      213: 472697286206246497
+    second: tizon_149
+  - first:
+      213: 8235531436085616486
+    second: tizon_151
+  - first:
+      213: -7437567481760642460
+    second: tizon_152
+  - first:
+      213: -8497289116993119335
+    second: tizon_154
+  - first:
+      213: -5460803793752826575
+    second: tizon_156
+  - first:
+      213: 6072575538687235234
+    second: tizon_157
+  - first:
+      213: 1210230358328346176
+    second: tizon_158
+  - first:
+      213: 3329391104321532888
+    second: tizon_159
+  - first:
+      213: 1396182420214215487
+    second: tizon_160
+  - first:
+      213: -6718614071864493478
+    second: tizon_161
+  - first:
+      213: 7161350064615669182
+    second: tizon_162
+  - first:
+      213: -6639644572414563986
+    second: tizon_163
+  - first:
+      213: -5090122851890755144
+    second: tizon_164
+  - first:
+      213: -8986057689676572232
+    second: tizon_176
+  - first:
+      213: 5284916345833124911
+    second: tizon_177
+  - first:
+      213: 7439188929850157349
+    second: tizon_178
+  - first:
+      213: -4772432305230553089
+    second: tizon_179
+  - first:
+      213: -1846816521952991802
+    second: tizon_180
+  - first:
+      213: -6141295357614183804
+    second: tizon_181
+  - first:
+      213: 5214338735214700160
+    second: tizon_182
+  - first:
+      213: 6352205270666722827
+    second: tizon_183
+  - first:
+      213: -7984024991286142699
+    second: tizon_184
+  - first:
+      213: -1372085501827006947
+    second: tizon_185
+  - first:
+      213: 8937875139946323347
+    second: tizon_186
+  - first:
+      213: -4460288290491757368
+    second: tizon_188
+  - first:
+      213: -1971440743649207121
+    second: tizon_203
+  - first:
+      213: -1065103116920442619
+    second: tizon_205
+  - first:
+      213: -4729531529779492343
+    second: tizon_206
+  - first:
+      213: -7988360763274598360
+    second: tizon_207
+  - first:
+      213: -8246262830634042752
+    second: tizon_208
+  - first:
+      213: 978249794893198617
+    second: tizon_209
+  - first:
+      213: 3454949256576136672
+    second: tizon_210
+  - first:
+      213: -7756208757946789240
+    second: tizon_211
+  - first:
+      213: -1444269208454829905
+    second: tizon_212
+  - first:
+      213: 6715795458251102516
+    second: tizon_213
+  - first:
+      213: 2544313737704937235
+    second: tizon_214
+  - first:
+      213: -7743047581099115495
+    second: tizon_230
+  - first:
+      213: -7456907118322574706
+    second: tizon_232
+  - first:
+      213: -249260739424004722
+    second: tizon_234
+  - first:
+      213: -8721185590849918067
+    second: tizon_235
+  - first:
+      213: -7378114002777526882
+    second: tizon_41
+  - first:
+      213: 4805967367870253498
+    second: tizon_50
+  - first:
+      213: -6615321166402266594
+    second: tizon_56
+  - first:
+      213: 768542947536624224
+    second: tizon_58
+  - first:
+      213: 4025258105320217651
+    second: tizon_66
+  - first:
+      213: 5892310914995735699
+    second: tizon_89
+  - first:
+      213: -2134331169455510737
+    second: tizon_91
+  - first:
+      213: -5381041202201979430
+    second: tizon_92
+  - first:
+      213: 2308244675969114959
+    second: tizon_93
+  - first:
+      213: -6459858055414873225
+    second: tizon_94
+  - first:
+      213: -1291910143251422524
+    second: tizon_115
+  - first:
+      213: -665206070410322465
+    second: tizon_116
+  - first:
+      213: 3773591528144353627
+    second: tizon_117
+  - first:
+      213: 2361648378752122902
+    second: tizon_118
+  - first:
+      213: 6598477723610979862
+    second: tizon_119
+  - first:
+      213: 7152381463045994536
+    second: tizon_120
+  - first:
+      213: -2354920622578332914
+    second: tizon_137
+  - first:
+      213: -4096342065916614251
+    second: tizon_146
+  - first:
+      213: 534668590390719415
+    second: tizon_148
+  - first:
+      213: 3570436135738418825
+    second: tizon_150
+  - first:
+      213: -6250593588764367074
+    second: tizon_165
+  - first:
+      213: -7910884801585670174
+    second: tizon_166
+  - first:
+      213: -4517393102978031745
+    second: tizon_167
+  - first:
+      213: 7482465824669342105
+    second: tizon_168
+  - first:
+      213: 4964816718375543481
+    second: tizon_170
+  - first:
+      213: -1234112727307058632
+    second: tizon_171
+  - first:
+      213: 867546721789369654
+    second: tizon_172
+  - first:
+      213: -2323327664620800184
+    second: tizon_173
+  - first:
+      213: 4025535452175922185
+    second: tizon_174
+  - first:
+      213: 2247894157460622884
+    second: tizon_189
+  - first:
+      213: 1692692723674205713
+    second: tizon_190
+  - first:
+      213: -4782022248075469379
+    second: tizon_191
+  - first:
+      213: -2977180194291846343
+    second: tizon_192
+  - first:
+      213: -7954346152710500376
+    second: tizon_193
+  - first:
+      213: -8408414717960166946
+    second: tizon_194
+  - first:
+      213: -812729661116359146
+    second: tizon_195
+  - first:
+      213: -4189978821765240127
+    second: tizon_196
+  - first:
+      213: 2021600644775037376
+    second: tizon_197
+  - first:
+      213: 880988181418174843
+    second: tizon_198
+  - first:
+      213: 2235031571848572104
+    second: tizon_200
+  - first:
+      213: 3430421335210275405
+    second: tizon_201
+  - first:
+      213: 1722552066633459436
+    second: tizon_216
+  - first:
+      213: -435946845725564629
+    second: tizon_217
+  - first:
+      213: 7660974082091377837
+    second: tizon_218
+  - first:
+      213: -395771469174284591
+    second: tizon_219
+  - first:
+      213: -481477993908532791
+    second: tizon_220
+  - first:
+      213: -2026628693492997577
+    second: tizon_222
+  - first:
+      213: 3099345155848897676
+    second: tizon_224
+  - first:
+      213: -1433303641595395226
+    second: tizon_226
+  - first:
+      213: 7138366451873265811
+    second: tizon_228
+  - first:
+      213: 1851211778936878036
+    second: tizon_229
+  - first:
+      213: 4705003821476875708
+    second: tizon_242
+  - first:
+      213: 4064979701865678137
+    second: tizon_243
+  - first:
+      213: 5130512576976826452
+    second: tizon_244
+  - first:
+      213: 1518503896686369970
+    second: tizon_246
+  - first:
+      213: -6104747375434958884
+    second: tizon_248
+  - first:
+      213: -858930251441278009
+    second: tizon_249
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tizon_0
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 9487
+        width: 110
+        height: 345
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3518c143313b8eb0800000000000000
+      internalID: -4716622088523737798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_1
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 9487
+        width: 111
+        height: 345
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b738b3295b132afe0800000000000000
+      internalID: -1179325496505433221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_2
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 9499
+        width: 111
+        height: 333
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 672596aa464c94c00800000000000000
+      internalID: 885454738389815926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_3
+      rect:
+        serializedVersion: 2
+        x: 2045
+        y: 9499
+        width: 111
+        height: 333
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e302cb7999866b0800000000000000
+      internalID: -5302819684253417828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_4
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 9487
+        width: 111
+        height: 345
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e67c1b2e4309d2b30800000000000000
+      internalID: 4264222979005728622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_5
+      rect:
+        serializedVersion: 2
+        x: 3235
+        y: 9487
+        width: 112
+        height: 345
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bab6ae104806a670800000000000000
+      internalID: 8549530014094637751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_6
+      rect:
+        serializedVersion: 2
+        x: 3773
+        y: 9490
+        width: 140
+        height: 391
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c7ede3d32195bb0800000000000000
+      internalID: -4946902661432706039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_7
+      rect:
+        serializedVersion: 2
+        x: 4367
+        y: 9490
+        width: 142
+        height: 391
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c239dd46139d5b0800000000000000
+      internalID: -5343185173614482328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_8
+      rect:
+        serializedVersion: 2
+        x: 4962
+        y: 9490
+        width: 141
+        height: 407
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 590015e83b96e9de0800000000000000
+      internalID: -1324505020492611435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_9
+      rect:
+        serializedVersion: 2
+        x: 5558
+        y: 9490
+        width: 140
+        height: 407
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ca67e2524ee0260800000000000000
+      internalID: 7065835713735339060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_14
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 8650
+        width: 133
+        height: 405
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9fcb3694c4f4130800000000000000
+      internalID: 3553142509108263399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_15
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 8647
+        width: 231
+        height: 328
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98642f59b819f8ff0800000000000000
+      internalID: -31646643666139511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_16
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 8647
+        width: 231
+        height: 328
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62977a77e272006e0800000000000000
+      internalID: -1873454364456683226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_17
+      rect:
+        serializedVersion: 2
+        x: 1972
+        y: 8647
+        width: 228
+        height: 328
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 205b2acef26335d90800000000000000
+      internalID: -7110279807226432254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_18
+      rect:
+        serializedVersion: 2
+        x: 2566
+        y: 8647
+        width: 229
+        height: 328
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d46600022575870800000000000000
+      internalID: 8671489904924315038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_19
+      rect:
+        serializedVersion: 2
+        x: 3162
+        y: 8647
+        width: 230
+        height: 328
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2eded06b7e7450b0800000000000000
+      internalID: -5740824556619243988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_20
+      rect:
+        serializedVersion: 2
+        x: 3757
+        y: 8647
+        width: 229
+        height: 328
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb809628d98522610800000000000000
+      internalID: 1594934651563608254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_21
+      rect:
+        serializedVersion: 2
+        x: 4351
+        y: 8647
+        width: 225
+        height: 328
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d722f6fccd6ef7e70800000000000000
+      internalID: 9115258006868533885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_22
+      rect:
+        serializedVersion: 2
+        x: 4947
+        y: 8647
+        width: 224
+        height: 328
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c9d2fb9b1b87680800000000000000
+      internalID: -8757054064087425968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_23
+      rect:
+        serializedVersion: 2
+        x: 5542
+        y: 8647
+        width: 231
+        height: 328
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8082b7fc3d4ae0e20800000000000000
+      internalID: 3318771205044643848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_24
+      rect:
+        serializedVersion: 2
+        x: 6136
+        y: 8647
+        width: 232
+        height: 328
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9315e713c17720f50800000000000000
+      internalID: 6846165346529726777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_25
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 7804
+        width: 227
+        height: 328
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a38a79e22342e98a0800000000000000
+      internalID: -6296555431068719046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_26
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 7804
+        width: 229
+        height: 328
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61b9ecaa71ae7d40800000000000000
+      internalID: 5584078136245072234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_27
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 7804
+        width: 228
+        height: 328
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 496dca45db255bf00800000000000000
+      internalID: 1131901854476457620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_28
+      rect:
+        serializedVersion: 2
+        x: 1972
+        y: 7804
+        width: 229
+        height: 328
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c093fce7009f8e0800000000000000
+      internalID: -1659294443066815429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_29
+      rect:
+        serializedVersion: 2
+        x: 2566
+        y: 7804
+        width: 228
+        height: 328
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62e41633e6d42640800000000000000
+      internalID: 5054400953169797742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_30
+      rect:
+        serializedVersion: 2
+        x: 3162
+        y: 7804
+        width: 227
+        height: 328
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c976ea2415e70c0800000000000000
+      internalID: -4576130824526128009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_31
+      rect:
+        serializedVersion: 2
+        x: 3757
+        y: 7804
+        width: 232
+        height: 328
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d82c441bf7dd0580800000000000000
+      internalID: -8859187418590598960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_32
+      rect:
+        serializedVersion: 2
+        x: 4351
+        y: 7804
+        width: 232
+        height: 328
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35638c6ae07dd2930800000000000000
+      internalID: 4120185692041524819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_33
+      rect:
+        serializedVersion: 2
+        x: 4947
+        y: 7804
+        width: 224
+        height: 328
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc36f6425de9a6210800000000000000
+      internalID: 1327047678490534859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_34
+      rect:
+        serializedVersion: 2
+        x: 5542
+        y: 7804
+        width: 224
+        height: 328
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c2c580b6ec83e70800000000000000
+      internalID: 9095246406571797539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_35
+      rect:
+        serializedVersion: 2
+        x: 6136
+        y: 7804
+        width: 231
+        height: 328
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a4d7934ff303f00800000000000000
+      internalID: 1094445027620113011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_36
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 6962
+        width: 229
+        height: 328
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ecf8511ea5785ab0800000000000000
+      internalID: -5019132394228613917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_37
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 6963
+        width: 229
+        height: 327
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db1e3f5f925ea180800000000000000
+      internalID: -9102246952418010153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_38
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 6963
+        width: 227
+        height: 327
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 952a47be7e2a83960800000000000000
+      internalID: 7581989089649664601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_39
+      rect:
+        serializedVersion: 2
+        x: 1972
+        y: 6963
+        width: 230
+        height: 327
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe48ed182865eca30800000000000000
+      internalID: 4237419417926796527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_40
+      rect:
+        serializedVersion: 2
+        x: 2566
+        y: 6963
+        width: 231
+        height: 327
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d9e08d15c23f820800000000000000
+      internalID: 2950750910886616366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_42
+      rect:
+        serializedVersion: 2
+        x: 3757
+        y: 6963
+        width: 233
+        height: 327
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8746a05a634ca9d80800000000000000
+      internalID: -8243060428972071816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_44
+      rect:
+        serializedVersion: 2
+        x: 4273
+        y: 6963
+        width: 466
+        height: 487
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902e0a6c47f7c7240800000000000000
+      internalID: 4790844243140731401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_46
+      rect:
+        serializedVersion: 2
+        x: 4869
+        y: 6963
+        width: 451
+        height: 487
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c4345904dda99b00800000000000000
+      internalID: 835890332055123136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_48
+      rect:
+        serializedVersion: 2
+        x: 5464
+        y: 6963
+        width: 448
+        height: 492
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edeb855c1def99640800000000000000
+      internalID: 5087377431004233438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_55
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 6123
+        width: 460
+        height: 494
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f34c2f3f55882680800000000000000
+      internalID: -8779620829430529033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_57
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 6117
+        width: 439
+        height: 507
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d1c00504744b4610800000000000000
+      internalID: 1606452957178544595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_59
+      rect:
+        serializedVersion: 2
+        x: 2489
+        y: 6127
+        width: 473
+        height: 503
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a61d0fa2ca5dedf0800000000000000
+      internalID: -149363420426332512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_60
+      rect:
+        serializedVersion: 2
+        x: 3085
+        y: 6127
+        width: 473
+        height: 503
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188318c9acae60810800000000000000
+      internalID: 1731329262700542081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_61
+      rect:
+        serializedVersion: 2
+        x: 3680
+        y: 6126
+        width: 443
+        height: 509
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4115ed77f88deb2a0800000000000000
+      internalID: -6719695483287219948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_63
+      rect:
+        serializedVersion: 2
+        x: 4274
+        y: 6126
+        width: 467
+        height: 509
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea28685d3852b620800000000000000
+      internalID: 2788388139795229417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_64
+      rect:
+        serializedVersion: 2
+        x: 4870
+        y: 6126
+        width: 442
+        height: 508
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee6ae9bbd8b44240800000000000000
+      internalID: 4775144758776065770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_65
+      rect:
+        serializedVersion: 2
+        x: 5464
+        y: 6126
+        width: 444
+        height: 508
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c34977520c15c7120800000000000000
+      internalID: 2412893386067907644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_82
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 5280
+        width: 483
+        height: 514
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa1a9020c8f508b0800000000000000
+      internalID: -5186465891782878471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_83
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 5280
+        width: 446
+        height: 514
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96941cbda14b22520800000000000000
+      internalID: 2675899156060522857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_84
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 5280
+        width: 447
+        height: 514
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd35972bbcda3440800000000000000
+      internalID: 4916484639609404891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_85
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 5281
+        width: 466
+        height: 513
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9958663734d0c1280800000000000000
+      internalID: -9071360966080952935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_86
+      rect:
+        serializedVersion: 2
+        x: 2357
+        y: 5619
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c91c2425ca733c5f0800000000000000
+      internalID: -737684700704620132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_87
+      rect:
+        serializedVersion: 2
+        x: 2488
+        y: 5281
+        width: 467
+        height: 513
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41b734093ad39550800000000000000
+      internalID: 6166512253219090767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_88
+      rect:
+        serializedVersion: 2
+        x: 2952
+        y: 5619
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b09500287a473380800000000000000
+      internalID: -8991636251228139341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_90
+      rect:
+        serializedVersion: 2
+        x: 3677
+        y: 5277
+        width: 448
+        height: 506
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8682b2b69a0183200800000000000000
+      internalID: 159896106605160552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_108
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 4435
+        width: 447
+        height: 506
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee64a8a532faef5d0800000000000000
+      internalID: -3026789333168666898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_110
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 4435
+        width: 454
+        height: 507
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c69edbf5e9e6fc00800000000000000
+      internalID: 934191146708408009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_111
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 4811
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f6d165356fdee60800000000000000
+      internalID: 7993315751439986461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_112
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 4442
+        width: 478
+        height: 503
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f169bde50700f5c0800000000000000
+      internalID: -4183836331782610447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_113
+      rect:
+        serializedVersion: 2
+        x: 1891
+        y: 4442
+        width: 478
+        height: 503
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e9ed81fc089a11a0800000000000000
+      internalID: -6837985902849037854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_114
+      rect:
+        serializedVersion: 2
+        x: 2488
+        y: 4441
+        width: 450
+        height: 501
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4ebb30ed4f1a1a0800000000000000
+      internalID: -6799884727970175779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_136
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 4441
+        width: 11
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f3dee289b561e460800000000000000
+      internalID: 7269203120992736240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_139
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 3597
+        width: 455
+        height: 491
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22293dcb82de29f20800000000000000
+      internalID: 3428063025604825634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_141
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 3597
+        width: 455
+        height: 491
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd9a2dda8b823830800000000000000
+      internalID: 4049452443491802556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_143
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 3600
+        width: 463
+        height: 488
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bcb3c5065ab65900800000000000000
+      internalID: 672930072965135541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_145
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 3600
+        width: 464
+        height: 488
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44d20a53b75d88ee0800000000000000
+      internalID: -1258521370692670140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_147
+      rect:
+        serializedVersion: 2
+        x: 3085
+        y: 3596
+        width: 450
+        height: 486
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7246c0502b398b8d0800000000000000
+      internalID: -2830349973004196825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_152
+      rect:
+        serializedVersion: 2
+        x: 4866
+        y: 3596
+        width: 446
+        height: 492
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a09a008c378c890800000000000000
+      internalID: -7437567481760642460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_154
+      rect:
+        serializedVersion: 2
+        x: 5460
+        y: 3596
+        width: 447
+        height: 492
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b15d39190931a80800000000000000
+      internalID: -8497289116993119335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_156
+      rect:
+        serializedVersion: 2
+        x: 6041
+        y: 3597
+        width: 462
+        height: 494
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13dd145d1e35734b0800000000000000
+      internalID: -5460803793752826575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_163
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2756
+        width: 553
+        height: 492
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e692162907e3bd3a0800000000000000
+      internalID: -6639644572414563986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_164
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 2749
+        width: 438
+        height: 507
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b904fd1c304c59b0800000000000000
+      internalID: -5090122851890755144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_230
+      rect:
+        serializedVersion: 2
+        x: 6047
+        y: 1071
+        width: 455
+        height: 491
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91cb3a9df3b2b8490800000000000000
+      internalID: -7743047581099115495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_10
+      rect:
+        serializedVersion: 2
+        x: 6152
+        y: 9492
+        width: 141
+        height: 404
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b1789fe7faa3c20800000000000000
+      internalID: 3187052646205168403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_41
+      rect:
+        serializedVersion: 2
+        x: 3162
+        y: 6963
+        width: 232
+        height: 327
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d2c18c76cab9990800000000000000
+      internalID: -7378114002777526882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_50
+      rect:
+        serializedVersion: 2
+        x: 6059
+        y: 6963
+        width: 465
+        height: 492
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab98604abd932b240800000000000000
+      internalID: 4805967367870253498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_56
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 6123
+        width: 462
+        height: 494
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a5879d278a134a0800000000000000
+      internalID: -6615321166402266594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_58
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 6117
+        width: 438
+        height: 507
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a5d862db96aaa00800000000000000
+      internalID: 768542947536624224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_66
+      rect:
+        serializedVersion: 2
+        x: 6059
+        y: 6122
+        width: 485
+        height: 514
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c9fd88be69cd730800000000000000
+      internalID: 4025258105320217651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_89
+      rect:
+        serializedVersion: 2
+        x: 3083
+        y: 5277
+        width: 448
+        height: 506
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c4a72fe81b5c150800000000000000
+      internalID: 5892310914995735699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_91
+      rect:
+        serializedVersion: 2
+        x: 4273
+        y: 5278
+        width: 445
+        height: 506
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b6f8b0c155162e0800000000000000
+      internalID: -2134331169455510737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_92
+      rect:
+        serializedVersion: 2
+        x: 4867
+        y: 5278
+        width: 445
+        height: 506
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5920d5983b255b0800000000000000
+      internalID: -5381041202201979430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_93
+      rect:
+        serializedVersion: 2
+        x: 5462
+        y: 5276
+        width: 446
+        height: 499
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4363dd9d48880020800000000000000
+      internalID: 2308244675969114959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_94
+      rect:
+        serializedVersion: 2
+        x: 6058
+        y: 5276
+        width: 444
+        height: 499
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7730d8b0359f956a0800000000000000
+      internalID: -6459858055414873225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_115
+      rect:
+        serializedVersion: 2
+        x: 3083
+        y: 4441
+        width: 449
+        height: 501
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c266cdc196321ee0800000000000000
+      internalID: -1291910143251422524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_116
+      rect:
+        serializedVersion: 2
+        x: 3679
+        y: 4442
+        width: 453
+        height: 496
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd52c67a96b4c6f0800000000000000
+      internalID: -665206070410322465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_117
+      rect:
+        serializedVersion: 2
+        x: 4274
+        y: 4442
+        width: 452
+        height: 496
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59b772608d7e5430800000000000000
+      internalID: 3773591528144353627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_118
+      rect:
+        serializedVersion: 2
+        x: 4870
+        y: 4441
+        width: 458
+        height: 496
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610c5eb10b246c020800000000000000
+      internalID: 2361648378752122902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_119
+      rect:
+        serializedVersion: 2
+        x: 5465
+        y: 4441
+        width: 457
+        height: 496
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e19268780829b50800000000000000
+      internalID: 6598477723610979862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_120
+      rect:
+        serializedVersion: 2
+        x: 6060
+        y: 4440
+        width: 455
+        height: 489
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 828f1f2bb0d524360800000000000000
+      internalID: 7152381463045994536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_137
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 4441
+        width: 11
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b0af0bb24a15fd0800000000000000
+      internalID: -2354920622578332914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_146
+      rect:
+        serializedVersion: 2
+        x: 2489
+        y: 3596
+        width: 451
+        height: 486
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 599ec8a289ed627c0800000000000000
+      internalID: -4096342065916614251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_148
+      rect:
+        serializedVersion: 2
+        x: 3673
+        y: 3596
+        width: 450
+        height: 486
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b33cca00468b6700800000000000000
+      internalID: 534668590390719415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_150
+      rect:
+        serializedVersion: 2
+        x: 4267
+        y: 3596
+        width: 451
+        height: 486
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98628eb9fbcbc8130800000000000000
+      internalID: 3570436135738418825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_165
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 2749
+        width: 439
+        height: 507
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17ad528f3e6149a0800000000000000
+      internalID: -6250593588764367074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_166
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 2760
+        width: 473
+        height: 503
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e71376cf24e63290800000000000000
+      internalID: -7910884801585670174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_167
+      rect:
+        serializedVersion: 2
+        x: 2459
+        y: 2760
+        width: 474
+        height: 502
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7fd13238eefe41c0800000000000000
+      internalID: -4517393102978031745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_168
+      rect:
+        serializedVersion: 2
+        x: 3061
+        y: 2759
+        width: 467
+        height: 508
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9999a63160f07d760800000000000000
+      internalID: 7482465824669342105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_170
+      rect:
+        serializedVersion: 2
+        x: 3679
+        y: 2759
+        width: 443
+        height: 508
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b2e1b9208296e440800000000000000
+      internalID: 4964816718375543481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_171
+      rect:
+        serializedVersion: 2
+        x: 4275
+        y: 2757
+        width: 443
+        height: 509
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 832031c530d8fdee0800000000000000
+      internalID: -1234112727307058632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_172
+      rect:
+        serializedVersion: 2
+        x: 4869
+        y: 2757
+        width: 444
+        height: 508
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d5f42a5252a0c00800000000000000
+      internalID: 867546721789369654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_173
+      rect:
+        serializedVersion: 2
+        x: 5424
+        y: 2754
+        width: 483
+        height: 514
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847707d6cc1e1cfd0800000000000000
+      internalID: -2323327664620800184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_174
+      rect:
+        serializedVersion: 2
+        x: 6018
+        y: 2754
+        width: 485
+        height: 514
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 904ffa16a239dd730800000000000000
+      internalID: 4025535452175922185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_189
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1911
+        width: 553
+        height: 514
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ecd1c83df123f10800000000000000
+      internalID: 2247894157460622884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_190
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 1911
+        width: 446
+        height: 514
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e4d7c5017ad7710800000000000000
+      internalID: 1692692723674205713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_191
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 1913
+        width: 476
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd52730a18d2adb0800000000000000
+      internalID: -4782022248075469379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_192
+      rect:
+        serializedVersion: 2
+        x: 1873
+        y: 1912
+        width: 465
+        height: 513
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933f7e6136eeea6d0800000000000000
+      internalID: -2977180194291846343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_193
+      rect:
+        serializedVersion: 2
+        x: 2486
+        y: 1910
+        width: 449
+        height: 504
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef023b615c7c9190800000000000000
+      internalID: -7954346152710500376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_194
+      rect:
+        serializedVersion: 2
+        x: 3082
+        y: 1910
+        width: 448
+        height: 504
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed161db1d5f4f4b80800000000000000
+      internalID: -8408414717960166946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_195
+      rect:
+        serializedVersion: 2
+        x: 3679
+        y: 1910
+        width: 446
+        height: 506
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e5cb2edaa98b4f0800000000000000
+      internalID: -812729661116359146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_196
+      rect:
+        serializedVersion: 2
+        x: 4275
+        y: 1910
+        width: 444
+        height: 506
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cae54806743ad5c0800000000000000
+      internalID: -4189978821765240127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_197
+      rect:
+        serializedVersion: 2
+        x: 4869
+        y: 1907
+        width: 446
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c94485531b2e0c10800000000000000
+      internalID: 2021600644775037376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_198
+      rect:
+        serializedVersion: 2
+        x: 5465
+        y: 1907
+        width: 445
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b796fb45516e93c00800000000000000
+      internalID: 880988181418174843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_200
+      rect:
+        serializedVersion: 2
+        x: 6057
+        y: 1909
+        width: 447
+        height: 506
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc21d57f5d640f10800000000000000
+      internalID: 2235031571848572104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_201
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 2251
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d42312b770e4b9f20800000000000000
+      internalID: 3430421335210275405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_216
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1066
+        width: 555
+        height: 507
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce66dc66afbb7e710800000000000000
+      internalID: 1722552066633459436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_217
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 1075
+        width: 478
+        height: 502
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21639f47a433f9f0800000000000000
+      internalID: -435946845725564629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_218
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 1075
+        width: 476
+        height: 502
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4e78c865f315a60800000000000000
+      internalID: 7660974082091377837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_219
+      rect:
+        serializedVersion: 2
+        x: 1889
+        y: 1072
+        width: 450
+        height: 501
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ded1a712ffe18af0800000000000000
+      internalID: -395771469174284591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_220
+      rect:
+        serializedVersion: 2
+        x: 2485
+        y: 1072
+        width: 449
+        height: 501
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c90ae5c0527159f0800000000000000
+      internalID: -481477993908532791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_222
+      rect:
+        serializedVersion: 2
+        x: 3076
+        y: 1074
+        width: 452
+        height: 497
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7326cb8d0f7ffd3e0800000000000000
+      internalID: -2026628693492997577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_224
+      rect:
+        serializedVersion: 2
+        x: 3670
+        y: 1074
+        width: 453
+        height: 497
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8483ba8ff5130b20800000000000000
+      internalID: 3099345155848897676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_226
+      rect:
+        serializedVersion: 2
+        x: 4259
+        y: 1074
+        width: 458
+        height: 494
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 663ce639ee1eb1ce0800000000000000
+      internalID: -1433303641595395226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_228
+      rect:
+        serializedVersion: 2
+        x: 4855
+        y: 1074
+        width: 457
+        height: 494
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 398b870a772901360800000000000000
+      internalID: 7138366451873265811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_229
+      rect:
+        serializedVersion: 2
+        x: 5452
+        y: 1071
+        width: 455
+        height: 491
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d33d870e43d0b910800000000000000
+      internalID: 1851211778936878036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_242
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 1073
+        width: 11
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd0cf52c088b4140800000000000000
+      internalID: 4705003821476875708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_243
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 1073
+        width: 10
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93580ec6085b96830800000000000000
+      internalID: 4064979701865678137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_244
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 231
+        width: 465
+        height: 490
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 450b062910e333740800000000000000
+      internalID: 5130512576976826452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_246
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 231
+        width: 464
+        height: 490
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc9908af3fc21510800000000000000
+      internalID: 1518503896686369970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_248
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 228
+        width: 451
+        height: 487
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd773bb3b94974ba0800000000000000
+      internalID: -6104747375434958884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tizon_249
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 228
+        width: 450
+        height: 487
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c37104bc777414f0800000000000000
+      internalID: -858930251441278009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

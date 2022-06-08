@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 804bf83bb96a2374284c0d1ac2b9940a
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Mistlock
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 1ed7d7a6c8b8cb842a0a105e9ce5939e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
